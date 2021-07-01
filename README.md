@@ -1,7 +1,7 @@
 # Cross-lingual toxicity classifier
 
 ## General info
-Project work for NLP course by Skoltech.
+Project work for the NLP course by Skoltech.
 
 ## Research question
 Сan English data improve detection of toxicity in Russian?
