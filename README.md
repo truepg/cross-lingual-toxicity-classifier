@@ -20,6 +20,4 @@ XLM-RoBERTa.
 - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
 ## Conclusion
-
-
-
+Check the project report (*report.pdf*) for results of experiments.
