@@ -7,7 +7,9 @@
 Train a classifier on English and Russian data using cross-lingual model and compare with classifiers trained only on Russian.
 
 ## Cross-lingual model
-XLM-RoBERTa: https://huggingface.co/transformers/model_doc/xlmroberta.html.
+XLM-RoBERTa.
+- https://arxiv.org/pdf/1911.02116.pdf
+- https://huggingface.co/transformers/model_doc/xlmroberta.html.
 
 ## Data
 #### Russian
@@ -16,4 +18,8 @@ XLM-RoBERTa: https://huggingface.co/transformers/model_doc/xlmroberta.html.
 
 #### English
 - https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
+
+## Conclusion
+
+
 
